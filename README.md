@@ -1,4 +1,4 @@
-![Chris' Avatar](https://chrisfrew.in/static/9d22dd6a27798273f8ae5666631b6d5c/bae4e/profile-pic.jpg)
+![Chris' Avatar](https://gravatar.com/avatar/053bbf940bc7eec28b402d2135d5e989?s=50)
 # Hi, I'm Chris, a full stack software engineering professional and educator!
 
 - 🔭 I’m currently working on The Wheel Screener at [wheelscreener.com](https://wheelscreener.com) Check it out! 😄
