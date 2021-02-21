@@ -1,4 +1,3 @@
-![Chris' Avatar](https://gravatar.com/avatar/ec80fa83161e6531525cb392354a726e?s=250)
 # Hi, I'm Chris, a full stack software engineering professional and educator!
 
 - 🔭 I’m currently working on The Wheel Screener at [wheelscreener.com](https://wheelscreener.com) Check it out! 😄
