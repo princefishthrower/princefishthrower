@@ -1,4 +1,4 @@
-# Hi, I'm Chris, a full stack software engineering professional and educator!
+# 👋 Hi, I'm Chris, a senior full stack software engineering and educator!
 
 - 💻 I’m currently working on The Wheel Screener at [wheelscreener.com](https://wheelscreener.com) Check it out! 😄
 - 📝  I blog here: [chrisfrew.in](https://chrisfrew.in)
