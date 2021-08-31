@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Chris, a senior full stack software engineering and educator!
 
-- 💻 I’m currently working on The Wheel Screener at [wheelscreener.com](https://wheelscreener.com) Check it out! 😄
+- 👨‍💻 I'm a senior software engineer at [InClub](https://inclub-app.com), where we are looking to revolutionize the party industry! Check us out! 😄
+- 💻 I’ve got a successful SaaS product called The Wheel Screener at [wheelscreener.com](https://wheelscreener.com) Check it out! 😄
 - 📝  I blog here: [chrisfrew.in](https://chrisfrew.in)
 - 🎓  I teach on [Skillshare](https://www.skillshare.com/user/christopherfrewin), [Udemy](https://www.udemy.com/user/chris-frewin/), and [YouTube](https://www.youtube.com/channel/UCLaNEXFBI1wpGtxvGVjfHKw)
 - 🏭  I work at [Full Stack Craft](https://fullstackcraft.com), a blanket LLC which covers all my SaaS products, applications, courses, and other content.
