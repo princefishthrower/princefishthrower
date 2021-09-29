@@ -8,3 +8,9 @@
 - 📫  How to reach me: [frewin.christopher@gmail.com](mailto:frewin.christopher@gmail.com)
 
 ![Chris' GitHub Stats](https://github-readme-stats.vercel.app/api/?username=princefishthrower&show_icons=true&title_color=f92672&icon_color=00FFFF&text_color=9f9f9f&bg_color=1A1A1A)
+
+## Hacktoberfest Hall of Fame
+- 🎃 Hacktoberfest 2018 - ✅ 4 out 4 PRs
+- 🎃 Hacktoberfest 2019 - ✅ 4 out 4 PRs
+- 🎃 Hacktoberfest 2020 - ❌ 3 out 4 PRs <-- sad!
+- 🎃 Hacktoberfest 2021 - _in progress_
