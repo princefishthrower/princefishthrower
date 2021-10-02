@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chris, a senior full stack software engineering and educator!
+# 👋 Hi, I'm Chris, a senior full stack software engineering and educator! 👨‍💻
 
 - 👨‍💻 I'm a senior software engineer at <img src="https://inclub-app.com/wp-content/uploads//2021/07/Logo_InClub-2-1.svg" height="20px" width="20px"/> [InClub](https://inclub-app.com), where we are looking to revolutionize the party industry! 🥳 Check us out! 😄
 - 💻 I’ve got a successful SaaS product called The Wheel Screener at [wheelscreener.com](https://wheelscreener.com) Check it out! 😄
