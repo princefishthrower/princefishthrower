@@ -13,4 +13,4 @@
 - 🎃 Hacktoberfest 2018 - ✅ 4 out 4 PRs
 - 🎃 Hacktoberfest 2019 - ✅ 4 out 4 PRs
 - 🎃 Hacktoberfest 2020 - ❌ 3 out 4 PRs <-- sad!
-- 🎃 Hacktoberfest 2021 - _in progress_
+- 🎃 Hacktoberfest 2021 - ✅ 4 out 4 PRs
