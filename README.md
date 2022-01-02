@@ -5,7 +5,6 @@
 - 📝  I blog here: [chrisfrew.in](https://chrisfrew.in)
 - 🎓  I teach on [Skillshare](https://www.skillshare.com/user/christopherfrewin), [Udemy](https://www.udemy.com/user/chris-frewin/), [YouTube](https://www.youtube.com/channel/UCLaNEXFBI1wpGtxvGVjfHKw), [Alison](https://alison.com/profile/public/22027043/Chris%20Frewin), [Eduonix](https://www.eduonix.com/u/chris-frewin), and [Educative](https://www.educative.io/profile/view/5163185537024000)
 - 🏭  I work at [Full Stack Craft](https://fullstackcraft.com), a blanket LLC which covers all my SaaS products, applications, courses, and other content.
-- 📫  How to reach me: [frewin.christopher@gmail.com](mailto:frewin.christopher@gmail.com)
 
 ![Chris' GitHub Stats](https://github-readme-stats.vercel.app/api/?username=princefishthrower&show_icons=true&title_color=f92672&icon_color=00FFFF&text_color=9f9f9f&bg_color=1A1A1A)
 
