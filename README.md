@@ -4,7 +4,7 @@
 - 💻 I’ve got a successful SaaS product called [The Wheel Screener](https://wheelscreener.com) Check it out! 😄
 - 📝  I blog here: [chrisfrew.in](https://chrisfrew.in)
 - 🎓  I teach on [Skillshare](https://www.skillshare.com/user/christopherfrewin), [Udemy](https://www.udemy.com/user/chris-frewin/), [YouTube](https://www.youtube.com/channel/UCLaNEXFBI1wpGtxvGVjfHKw), [Alison](https://alison.com/profile/public/22027043/Chris%20Frewin), [Eduonix](https://www.eduonix.com/u/chris-frewin), and [Educative](https://www.educative.io/profile/view/5163185537024000)
-- 🏭  I work at [Full Stack Craft](https://fullstackcraft.com), a blanket LLC which covers all my SaaS products, applications, courses, and other content.
+- 🏭  I'm the owner of [Full Stack Craft](https://fullstackcraft.com), a blanket LLC which covers all my SaaS products, applications, courses, and other content.
 
 [![wakatime](https://wakatime.com/badge/user/1a7b5f29-2708-4091-928e-dc636095ae43.svg)](https://wakatime.com/@1a7b5f29-2708-4091-928e-dc636095ae43)
 
