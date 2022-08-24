@@ -2,6 +2,7 @@
 
 - 👨‍💻 I'm the CTO at <img src="http://wordpress.inclub-app.com/wp-content/uploads//2021/07/Logo_InClub-2-1.svg" height="20px" width="20px"/> [InClub](https://inclub-app.com), where we are looking to revolutionize the adventure, experience, and party industry! 🥳 Check us out! 😄
 - 💻 I’ve got a successful SaaS product called [The Wheel Screener](https://wheelscreener.com) Check it out! 😄
+- 💻 I’ve got a beta (seemingly less successful for the time being) SaaS product called [Kurynt](https://kurynt.com) Check it out! 😄
 - 📝  I blog here: [chrisfrew.in](https://chrisfrew.in)
 - 🎓  I teach on [Skillshare](https://www.skillshare.com/user/christopherfrewin), [Udemy](https://www.udemy.com/user/chris-frewin/), [YouTube](https://www.youtube.com/channel/UCLaNEXFBI1wpGtxvGVjfHKw), [Alison](https://alison.com/profile/public/22027043/Chris%20Frewin), [Eduonix](https://www.eduonix.com/u/chris-frewin), and [Educative](https://www.educative.io/profile/view/5163185537024000)
 - 🏭  I'm the owner of [Full Stack Craft](https://fullstackcraft.com), a blanket LLC which covers all my SaaS products, applications, courses, and other content.
