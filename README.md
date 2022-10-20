@@ -7,7 +7,8 @@
 - 🎓  I teach on [Skillshare](https://www.skillshare.com/user/christopherfrewin), [Udemy](https://www.udemy.com/user/chris-frewin/), [YouTube](https://www.youtube.com/channel/UCLaNEXFBI1wpGtxvGVjfHKw), [Alison](https://alison.com/profile/public/22027043/Chris%20Frewin), [Eduonix](https://www.eduonix.com/u/chris-frewin), and [Educative](https://www.educative.io/profile/view/5163185537024000)
 - 🏭  I'm the owner of [Full Stack Craft](https://fullstackcraft.com), a blanket LLC which covers all my SaaS products, applications, courses, and other content.
 
-<codersrank-summary username="princefishthrower"></codersrank-summary>
+![My CodersRank Profile](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=princefishthrower&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px)
+
 
 [![wakatime](https://wakatime.com/badge/user/1a7b5f29-2708-4091-928e-dc636095ae43.svg)](https://wakatime.com/@1a7b5f29-2708-4091-928e-dc636095ae43)
 
