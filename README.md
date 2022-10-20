@@ -7,10 +7,10 @@
 - 🎓  I teach on [Skillshare](https://www.skillshare.com/user/christopherfrewin), [Udemy](https://www.udemy.com/user/chris-frewin/), [YouTube](https://www.youtube.com/channel/UCLaNEXFBI1wpGtxvGVjfHKw), [Alison](https://alison.com/profile/public/22027043/Chris%20Frewin), [Eduonix](https://www.eduonix.com/u/chris-frewin), and [Educative](https://www.educative.io/profile/view/5163185537024000)
 - 🏭  I'm the owner of [Full Stack Craft](https://fullstackcraft.com), a blanket LLC which covers all my SaaS products, applications, courses, and other content.
 
-![My CodersRank Profile](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=princefishthrower&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px)
-
-
 [![wakatime](https://wakatime.com/badge/user/1a7b5f29-2708-4091-928e-dc636095ae43.svg)](https://wakatime.com/@1a7b5f29-2708-4091-928e-dc636095ae43)
+![](https://visitor-badge.glitch.me/badge?page_id=princefishthrower.princefishthrower)
+![](https://img.shields.io/youtube/channel/views/UCLaNEXFBI1wpGtxvGVjfHKw?label=Full%20Stack%20Craft%20YouTube%20Views&style=social)
+![](https://img.shields.io/youtube/channel/subscribers/UCLaNEXFBI1wpGtxvGVjfHKw?label=Full%20Stack%20Craft%20YouTube%20Subscribers&style=social)
 
 ![Chris' GitHub Stats](https://github-readme-stats.vercel.app/api/?username=princefishthrower&show_icons=true&title_color=f92672&icon_color=00FFFF&text_color=9f9f9f&bg_color=1A1A1A)
 
@@ -21,4 +21,3 @@
 - 🎃 Hacktoberfest 2021 - ✅ 4 out 4 PRs
 - 🎃 Hacktoberfest 2022 - ✅ 4 out 4 PRs
 
-![](https://visitor-badge.glitch.me/badge?page_id=princefishthrower.princefishthrower)
