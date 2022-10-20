@@ -16,6 +16,6 @@
 - 🎃 Hacktoberfest 2019 - ✅ 4 out 4 PRs
 - 🎃 Hacktoberfest 2020 - ❌ 3 out 4 PRs <-- sad!
 - 🎃 Hacktoberfest 2021 - ✅ 4 out 4 PRs
-- 🎃 Hacktoberfest 2022 - ✅ 4 out 4 PRs (pending ⏱️)
+- 🎃 Hacktoberfest 2022 - ✅ 4 out 4 PRs
 
 ![](https://visitor-badge.glitch.me/badge?page_id=princefishthrower.princefishthrower)
