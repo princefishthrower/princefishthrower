@@ -5,7 +5,7 @@
 - 🔄 I’ve got a beta (seemingly less successful for the time being) SaaS product called [Kurynt](https://kurynt.com) Check it out! 😄
 - 🗣️ I've got an even LESS successful product called [Squawk Market](https://squawk-market.com) Check it out!
 - 📝  I blog here: [chrisfrew.in](https://chrisfrew.in)
-- 🎓  I teach on [Skillshare](https://www.skillshare.com/user/christopherfrewin), [Udemy](https://www.udemy.com/user/chris-frewin/), [YouTube](https://www.youtube.com/channel/UCLaNEXFBI1wpGtxvGVjfHKw), [Alison](https://alison.com/profile/public/22027043/Chris%20Frewin), [Eduonix](https://www.eduonix.com/u/chris-frewin), and [Educative](https://www.educative.io/profile/view/5163185537024000)
+- 🎓  I teach on [Skillshare](https://www.skillshare.com/user/christopherfrewin), [Udemy](https://www.udemy.com/user/chris-frewin/), [YouTube](https://www.youtube.com/channel/UCLaNEXFBI1wpGtxvGVjfHKw), [Alison](https://alison.com/profile/public/22027043/Chris%20Frewin), [Eduonix](https://www.eduonix.com/u/chris-frewin), [Educative](https://www.educative.io/profile/view/5163185537024000), [Newline](https://www.newline.co/courses/react-use-please-stay-with-react-and-typescript/welcome), and [Codedamn](https://codedamn.com/learn/mastering-bitbucket)
 - 🏭  I'm the owner of [Full Stack Craft](https://fullstackcraft.com), a blanket LLC which covers all my SaaS products, applications, courses, and other content.
 
 [![wakatime](https://wakatime.com/badge/user/1a7b5f29-2708-4091-928e-dc636095ae43.svg)](https://wakatime.com/@1a7b5f29-2708-4091-928e-dc636095ae43)
