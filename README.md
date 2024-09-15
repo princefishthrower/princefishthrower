@@ -9,10 +9,10 @@ Full Stack Craft builds, owns & operates [AMT JOY](https://amtjoy.com) 📈, [Th
 ![](https://visitor-badge.glitch.me/badge?page_id=princefishthrower.princefishthrower)
 ![](https://img.shields.io/youtube/channel/views/UCLaNEXFBI1wpGtxvGVjfHKw?label=Full%20Stack%20Craft%20YouTube%20Views&style=social)
 ![](https://img.shields.io/youtube/channel/subscribers/UCLaNEXFBI1wpGtxvGVjfHKw?label=Full%20Stack%20Craft%20YouTube%20Subscribers&style=social)
+[![Contact me on Codementor](https://www.codementor.io/m-badges/chrisfrewin_galt/book-session.svg)](https://www.codementor.io/@chrisfrewin_galt?refer=badge)
 
 ![Chris' GitHub Stats](https://github-readme-stats.vercel.app/api/?username=princefishthrower&show_icons=true&title_color=f92672&icon_color=00FFFF&text_color=9f9f9f&bg_color=1A1A1A)
 
-[![Contact me on Codementor](https://www.codementor.io/m-badges/chrisfrewin_galt/book-session.svg)](https://www.codementor.io/@chrisfrewin_galt?refer=badge)
 
 ## Hacktoberfest Hall of Fame
 - 🎃 Hacktoberfest 2018 - ✅ 4 out 4 PRs
