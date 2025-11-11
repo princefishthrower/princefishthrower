@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Chris, a full stack software engineer, educator, and polymath! 👨‍💻
 
 - 🏭  I'm the owner & principal engineer at [Full Stack Craft](https://fullstackcraft.com), my LLC which owns a variety of SaaS products, applications, courses, and other products.
-Full Stack Craft builds, owns & operates [AMT JOY](https://amtjoy.com) 📈, [The Wheel Screener](https://wheelscreener.com) 📈, [LEAPS Screener](https://leapsscreener.com) 📈, and [CodeVideo](https://codevideo.io) 🎥.
+Full Stack Craft builds, owns & operates [VannaCharm](https://vannacharm.com) 📈, [The Wheel Screener](https://wheelscreener.com) 📈, [LEAPS Screener](https://leapsscreener.com) 📈, [AMT JOY](https://amtjoy.com) 📈, and [CodeVideo](https://codevideo.io) 🎥.
 - 📝  I blog here: [chrisfrew.in](https://chrisfrew.in)
 - 🎓  My courses can be found on [Skillshare](https://www.skillshare.com/user/christopherfrewin), [Udemy](https://www.udemy.com/user/chris-frewin/), [YouTube](https://www.youtube.com/channel/UCLaNEXFBI1wpGtxvGVjfHKw), [Alison](https://alison.com/profile/public/22027043/Chris%20Frewin), [Eduonix](https://www.eduonix.com/u/chris-frewin), [Educative](https://www.educative.io/profile/view/5163185537024000), [Newline](https://www.newline.co/courses/react-use-please-stay-with-react-and-typescript/welcome), and [Codedamn](https://codedamn.com/learn/mastering-bitbucket)
 - Photography: [photography.chrisfrew.in](https://photography.chrisfrew.in)
