@@ -12,3 +12,5 @@ Full Stack Craft builds, owns & operates [VannaCharm](https://vannacharm.com) ðŸ
 [![CodersRank Percentile](https://img.shields.io/badge/CodersRank%20Percentile-Top%201%25-blue)](https://profile.codersrank.io/user/princefishthrower)
 [![YouTube](https://img.shields.io/badge/YouTube-Full%20Stack%20Craft-red?logo=youtube&style=social)](https://www.youtube.com/channel/UCLaNEXFBI1wpGtxvGVjfHKw)
 ![](https://komarev.com/ghpvc/?username=princefishthrower)
+
+![GitHub Metrics](./github-metrics.svg)
