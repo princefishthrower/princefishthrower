@@ -13,4 +13,6 @@ Full Stack Craft builds, owns & operates [VannaCharm](https://vannacharm.com) ðŸ
 [![YouTube](https://img.shields.io/badge/YouTube-Full%20Stack%20Craft-red?logo=youtube&style=social)](https://www.youtube.com/channel/UCLaNEXFBI1wpGtxvGVjfHKw)
 ![](https://komarev.com/ghpvc/?username=princefishthrower)
 
+trigger build
+
 ![GitHub Metrics](./github-metrics.svg)
