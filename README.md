@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Chris, a full stack software engineer, educator, and artist! 👨‍💻
 
 - 🏭  I'm the owner & principal engineer at [Full Stack Craft](https://fullstackcraft.com), my LLC which owns a variety of SaaS products, applications, courses, and other products.
-Full Stack Craft builds, owns & operates [VannaCharm](https://vannacharm.com) 📈, [The Wheel Screener](https://wheelscreener.com) 📈, [LEAPS Screener](https://leapsscreener.com) 📈, [AMT JOY](https://amtjoy.com) 📈, and [CodeVideo](https://codevideo.io) 🎥.
+Full Stack Craft builds, owns & operates [VannaCharm](https://vannacharm.com) 📈, [The Wheel Screener](https://wheelscreener.com) 📈, [Option Screener](https://option-screener.com) 📈, [LEAPS Screener](https://leapsscreener.com) 📈, [AMT JOY](https://amtjoy.com) 📈, and [CodeVideo](https://codevideo.io) 🎥.
 - 📝  I blog here: [chrisfrew.in](https://chrisfrew.in)
 - 🎓  My courses can be found on [Udemy](https://www.udemy.com/user/chris-frewin/), [YouTube](https://www.youtube.com/channel/UCLaNEXFBI1wpGtxvGVjfHKw), [Newline](https://www.newline.co/courses/react-use-please-stay-with-react-and-typescript/welcome), and [Codedamn](https://codedamn.com/learn/mastering-bitbucket)
 - Science Fiction and Fantasy Writing: [writing.chrisfrew.in](https://writing.chrisfrew.in)
@@ -14,6 +14,3 @@ Yeah, I code a lot → [![wakatime](https://wakatime.com/badge/user/1a7b5f29-270
 Youtube stuff → ![](https://visitor-badge.glitch.me/badge?page_id=princefishthrower.princefishthrower)
 ![](https://img.shields.io/youtube/channel/views/UCLaNEXFBI1wpGtxvGVjfHKw?label=Full%20Stack%20Craft%20YouTube%20Views&style=social)
 ![](https://img.shields.io/youtube/channel/subscribers/UCLaNEXFBI1wpGtxvGVjfHKw?label=Full%20Stack%20Craft%20YouTube%20Subscribers&style=social)
-
-I love educating and helping growing devs! Book a session with me on Codementor [![Contact me on Codementor](https://www.codementor.io/m-badges/chrisfrewin_galt/book-session.svg)](https://www.codementor.io/@chrisfrewin_galt?refer=badge)
-
