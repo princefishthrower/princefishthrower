@@ -8,10 +8,10 @@ Full Stack Craft builds, owns & operates [VannaCharm](https://vannacharm.com) �
 - Photography: [photography.chrisfrew.in](https://photography.chrisfrew.in)
 - Prints: [portfolio.chrisfrew.in](https://portfolio.chrisfrew.in)
 
-Yeah, I code a lot -> [![wakatime](https://wakatime.com/badge/user/1a7b5f29-2708-4091-928e-dc636095ae43.svg)](https://wakatime.com/@1a7b5f29-2708-4091-928e-dc636095ae43)
+Yeah, I code a lot → [![wakatime](https://wakatime.com/badge/user/1a7b5f29-2708-4091-928e-dc636095ae43.svg)](https://wakatime.com/@1a7b5f29-2708-4091-928e-dc636095ae43)
 [![CodersRank Percentile](https://img.shields.io/badge/CodersRank%20Percentile-Top%201%25-blue)](https://profile.codersrank.io/user/princefishthrower)
 
-Youtube stuff ![](https://visitor-badge.glitch.me/badge?page_id=princefishthrower.princefishthrower)
+Youtube stuff → ![](https://visitor-badge.glitch.me/badge?page_id=princefishthrower.princefishthrower)
 ![](https://img.shields.io/youtube/channel/views/UCLaNEXFBI1wpGtxvGVjfHKw?label=Full%20Stack%20Craft%20YouTube%20Views&style=social)
 ![](https://img.shields.io/youtube/channel/subscribers/UCLaNEXFBI1wpGtxvGVjfHKw?label=Full%20Stack%20Craft%20YouTube%20Subscribers&style=social)
 
